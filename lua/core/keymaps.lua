@@ -20,3 +20,4 @@ local function map_key(mode, lhs, rhs)
 end
 
 map_key('i', 'jk', '<ESC>')
+
